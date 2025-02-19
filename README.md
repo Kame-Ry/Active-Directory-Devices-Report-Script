@@ -73,8 +73,3 @@ This script is provided under the MIT License. You are free to use and modify it
 ## Contributions
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
-
-## Author
-
-[Your Name]
-
